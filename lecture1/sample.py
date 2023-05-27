@@ -9,3 +9,6 @@ x = len(cars)
 
 cars.append("Chevy")
 #testing 
+
+hostname = ('hostname')
+print(hostname)
