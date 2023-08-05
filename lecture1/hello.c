@@ -7,6 +7,5 @@ int main(void )
 
 /*
 Functions take in arguments and return values to the caller. 
-
  */
 
